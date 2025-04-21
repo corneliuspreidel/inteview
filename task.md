@@ -1,4 +1,3 @@
-
 # Task: Ground Plane Detection from CSV
 
 In the context of digital twins, robotics, or model-based processing, detecting **dominant planes** (e.g. floors or ceilings) in a point cloud is often a first essential step. This plane becomes a reference for further segmentation, object extraction, or anchoring.
@@ -37,7 +36,7 @@ Create a script or notebook that:
 
 ### Time Budget
 
-**20 minutes total.**
+**30 minutes total.**
 
 Focus on an end-to-end working example, even if it's minimal. Clean structure and clear reasoning matter most.
 
